@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="3.1.9" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AssistPurchase">
+      <HintPath>bin\Debug\netcoreapp3.1\AssistPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="EASendMail">
+      <HintPath>bin\Debug\netcoreapp3.1\EASendMail.dll</HintPath>
+    </Reference>
+    <Reference Include="MailKit">
+      <HintPath>bin\Debug\netcoreapp3.1\MailKit.dll</HintPath>
+    </Reference>
+    <Reference Include="MimeKit">
+      <HintPath>bin\Debug\netcoreapp3.1\MimeKit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

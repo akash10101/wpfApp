@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfQZKXsFj0/5ZjuPq1AQw2uDQOmX73pPwe4Mzb2yYN3efa1vMwsSY34LMI5Bz8+15ihfm/uP5+HZWOUepXVd5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\320088274\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\320088274\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.9\\microsoft.aspnetcore.testhost.3.1.9.nupkg.sha512",
+    "C:\\Users\\320088274\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\320088274\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
